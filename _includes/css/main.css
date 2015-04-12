@@ -10,3 +10,25 @@ header .img-responsive {
 	margin: 0 auto;
 }
 
+.shoken-light {
+    text-align: center;
+}
+
+.shoken-light {
+	margin-top: 46px;
+}
+
+.shoken-light hr {
+	margin: 0px auto 0px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    border-color: #{{ site.color.secondary }};
+}
+
+.shoken-light img {
+	position: relative;
+	top: -46px;
+}
+
