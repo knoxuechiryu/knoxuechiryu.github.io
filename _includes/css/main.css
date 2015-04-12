@@ -1,0 +1,12 @@
+body {
+	padding-top: 70px;
+}
+
+header {
+	text-align: center;
+}
+
+header .img-responsive {
+	margin: 0 auto;
+}
+

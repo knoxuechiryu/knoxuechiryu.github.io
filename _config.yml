@@ -1,0 +1,14 @@
+# Site settings
+title: Knoxville Uechi-Ryu Karate School
+email: knoxuechiryu@yahoo.com
+description: > # this means to ignore newlines until "baseurl:"
+  Knoxville Uechiryu Karate School currently holds class hours on Saturday from 9:00am to 10:00am at Street Beatz Studio
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://okknoxville.com" # the base hostname & protocol for your site
+
+# Social media
+footer-links:
+  facebook: okknoxville
+
+# Build settings
+markdown: kramdown
