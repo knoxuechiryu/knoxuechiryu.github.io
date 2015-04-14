@@ -3,7 +3,7 @@ title: Knoxville Uechi-Ryu Karate School
 email: knoxuechiryu@yahoo.com
 hours: 9:00am - 10:00am
 description: > # this means to ignore newlines until "baseurl:"
-  Knoxville Uechi-Ryu Karate School currently holds class hours on Saturday from 9:00am - 10:00am at Street Beatz Studio
+  Knoxville Uechi-Ryu Karate School currently holds class hours on Saturday from 9:00am - 10:00am at <a href="http://www.streetbeatzstudio.com/">Street Beatz Studio</a>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://okknoxville.com" # the base hostname & protocol for your site
 
