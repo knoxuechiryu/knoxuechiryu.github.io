@@ -32,3 +32,8 @@ header .img-responsive {
 	top: -46px;
 }
 
+@media(max-width: 480px) {
+  .navbar-brand {
+    font-size: 12pt;
+  }
+}
