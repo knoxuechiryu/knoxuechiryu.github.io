@@ -18,6 +18,7 @@ color:
 # Social media
 footer-links:
   facebook: okknoxville
+  youtube: https://www.youtube.com/channel/UC7bI3ivdLrqV4BumMKY9scQ
 
 # Build settings
 markdown: kramdown
