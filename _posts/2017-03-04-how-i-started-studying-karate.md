@@ -15,5 +15,5 @@ I studied karate through high school and achieved green belt if I remember corre
 
 Karate has given me many things.  Sanchin kata is a form of meditation for me. Visualizing it can help me weather emotionally intense situations. It helps me stay active. I feel great when I can pass on some of what Bob & T. Rose have taught me to others. So I got into it to learn how to defeat bullies and instead learned to calm my mind and spirit.
 
-If you study karate, what has karate taught you?  Drop a line to (({{site.email}})) and share your story with us.  If you don't study karate, maybe you should stop by and try a class with us -- see what you get out of it!
+If you study karate, what has karate taught you?  Drop a line to <{{site.email}}> and share your story with us.  If you don't study karate, maybe you should stop by and try a class with us -- see what you get out of it!
 
