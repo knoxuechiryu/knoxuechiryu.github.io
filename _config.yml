@@ -23,5 +23,8 @@ footer-links:
 # Build settings
 markdown: kramdown
 
+# Site settings
+permalink: /:year/:month/:day/:title.html
+
 gems:
   - jekyll-sitemap
