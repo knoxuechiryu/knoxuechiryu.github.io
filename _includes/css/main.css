@@ -37,3 +37,38 @@ header .img-responsive {
     font-size: 12pt;
   }
 }
+
+.news {
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 2px solid #{{ site.color.secondary }};
+  border-radius: 10px;
+
+}
+
+.postrow {
+  margin-bottom: 25px;
+}
+
+.news h2 {
+  margin-bottom: 0;
+  
+}
+
+
+
+.news .image-wrapper {
+  width: 200px;
+  float: left;
+  padding-right: 25px;
+  padding-left: 10px;
+}
+
+.news .image-wrapper img {
+  width:100%;
+}
+
+.news .meta {
+  font-size: 0.9em;
+}
+
