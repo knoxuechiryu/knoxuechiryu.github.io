@@ -1,28 +1,31 @@
 <footer class="site-footer">
 
   <div class="container">
-	<div class="row">
-	  <div class="col-md-12 shoken-light">
-		<hr>
-		<img src="{{site.url}}/assets/yellow-symbol.png" alt='yellow symbol'>
-	  </div>
-	  
-	  <div class="col-md-4 col-md-offset-2">
-		<p>{{ site.title }}</p>
+    
+    <div class="row">
+      
+      <div class="col-md-12 shoken-light">
+        <hr>
+        <img src="{{site.url}}/assets/yellow-symbol.png" alt='yellow symbol'>
+      </div>
+
+      <div class="col-md-4 col-md-offset-2">
+        <p>{{ site.title }}</p>
         <ul class="contact-list">
-		  <li><i class="fa fa-phone"></i> {{ site.school_phone }}</li>
+          <li><i class="fa fa-phone"></i> {{ site.school_phone }}</li>
           <li><a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o"></i> {{ site.email }}</a></li>
-		  <li>{% if site.footer-links.facebook %}<a href="https://facebook.com/{{ site.footer-links.facebook }}"><i class="fa fa-facebook-official"></i>/{{ site.footer-links.facebook }}</a>{% endif %}</li>
-      <li><a href="{{site.footer-links.youtube}}"><i class="fa fa-youtube"></i>/Knoxville Uechi-ryu Karate School</a></li>
+          <li>{% if site.footer-links.facebook %}<a href="https://facebook.com/{{ site.footer-links.facebook }}"><i class="fa fa-facebook-official"></i>/{{ site.footer-links.facebook }}</a>{%
+            endif %}</li>
+          <li><a href="{{site.footer-links.youtube}}"><i class="fa fa-youtube"></i>/Knoxville Uechi-ryu Karate School</a></li>
         </ul>
       </div>
 
       <div class="col-md-4">
         <p class="text">{{ site.description }}</p>
       </div>
+      
     </div>
 
   </div>
 
 </footer>
-
